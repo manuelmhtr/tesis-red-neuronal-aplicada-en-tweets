@@ -1,4 +1,4 @@
-# Tesis: PREDICCIÓN DEL IMPACTO EN MENSAJES DE TWITTER MEDIANTE REDES NEURONALES
+# Predicción del impacto en mensajes de Twitter mediante redes neuronales
 
 Por: Manuel Honorio de la Torre Ramírez
 
